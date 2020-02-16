@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "Workshop Papers"
 permalink: /publications/
 author_profile: true
 ---

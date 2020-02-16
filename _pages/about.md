@@ -6,22 +6,16 @@ redirect_from:
   - /about.html
 ---
 
-Senior associate in the London office of J.P. Morgan [AI Research](https://www.jpmorgan.com/global/technology/artificial-intelligence), an academic research group led by [Manuela Veloso](https://www.wsj.com/articles/jpmorgan-taps-carnegie-mellon-professor-for-new-artificial-intelligence-role-1525374000)
 
-My research focuses on the use of reinforcement learning and agent-based modelling (ABM) for limit order book trading applications.
+I am a senior associate in the London office of J.P. Morgan [AI Research](https://www.jpmorgan.com/global/technology/artificial-intelligence), an academic research lab led by Prof. [Manuela Veloso](https://www.wsj.com/articles/jpmorgan-taps-carnegie-mellon-professor-for-new-artificial-intelligence-role-1525374000). I am also an early stage part-time PhD student at Imperial College London under the supervision of Prof. [Danilo Mandic](http://www.commsp.ee.ic.ac.uk/~mandic/).
 
-Research Interests
+My research at J.P. Morgan and Imperial College London focuses on the use of reinforcement learning and agent-based modelling for limit order book trading applications.
+
+Background
 ======
-1. reinforcement learning for optimized trade execution and market making
-1. financial markets agent-based model design and calibration
+I obtained my undergraduate MEng degree in Mechatronic Engineering (Robotics) from the University of Manchester in 2014. During my studies, I was fortunate enough to learn about and participate in building cutting edge robotic platforms for various purposes. My final year group project was sponsored by [Find A Better Way](https://www.bbc.co.uk/news/uk-england-manchester-15534752), a charity founded by Sir Bobby Charlton aimed at funding research for new ways to detect and clear landmines globally.
 
-Workshop Papers
+Experience
 ======
-1. On the Importance of Opponent Modeling in Auction Markets. NeurIPS 2019 Workshop on Robust AI in
-Financial Services. arXiv: 1911.12816
-1. Get Real: Metrics for Simulated Equity Market Realism. NeurIPS 2019 Workshop on Robust AI in
-Financial Services.
-1. Generating Synthetic Data in Finance: Opportunities, Challenges and Pitfalls. NeurIPS 2019 Workshop
-on Robust AI in Financial Services.
-1. How to Evaluate Trading Strategies: Single Agent Market Replay or Multiple Agent Interactive
-Simulation? ICML 2019 Workshop on AI in Finance, arXiv: 1906.12010
+
+

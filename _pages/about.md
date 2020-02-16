@@ -17,7 +17,7 @@ I obtained my undergraduate MEng degree in Mechatronic Engineering (Robotics) fr
 
 Experience
 ======
-Before joining J.P. Morgan, I interned in Goldman Sachs as a software engineer, Culham Centre for Fusion Energy (part of the United Kindom Atomic Energy Authority) as a robotics intern and Agilent Technologies as an application engineer.
+Before joining J.P. Morgan, I interned in Goldman Sachs as a software engineer, Culham Centre for Fusion Energy (part of the United Kindom Atomic Energy Authority) as a robotics intern and Agilent Technologies as an application engineer. 
 
 At J.P. Morgan, I started my career as a front-office software engineer supporting and developing a suite of applications used the interest rate swaps and options trading desks. This gave me the opportunity to learn about and contribute to the sucess of some of the most profitable trading desks globally. I was also fortunate enough to travel to Japan for ~3 weeks to support the APAC trading desks during the U.S. elections. 
 

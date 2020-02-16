@@ -1,9 +1,8 @@
 ---
 layout: archive
 permalink: /research/
+title: "Research"
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 I am interested in a lot of things but these are the things I mainly work on...

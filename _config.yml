@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mahmoud Mahfouz"
-  avatar           : "profile.png"
+  avatar           : "mypic.jpeg"
   bio              : "reinforcement learning and agent-based modelling (ABM) for limit order book market simulations."
   location         : "London, United Kingdom"
   employer         : "J.P. Morgan AI Research"

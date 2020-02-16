@@ -6,11 +6,13 @@ redirect_from:
   - /about.html
 ---
 
+About me
+======
 Senior associate in the London office of J.P. Morgan [AI Research](https://www.jpmorgan.com/global/technology/artificial-intelligence), an academic research group led by [Manuela Veloso](https://www.wsj.com/articles/jpmorgan-taps-carnegie-mellon-professor-for-new-artificial-intelligence-role-1525374000)
 
 My research focuses on the use of reinforcement learning and agent-based modelling (ABM) for limit order book trading applications.
 
-Research Interests
+Research Interestsfr
 ======
 1. reinforcement learning for optimized trade execution and market making
 1. financial markets agent-based model design and calibration

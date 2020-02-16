@@ -10,8 +10,6 @@ I am a senior associate in the London office of J.P. Morgan [AI Research](https:
 
 My research focuses mainly on applying artificial intelligence and machine learning tools from robotics in financial markets. In my work, I work on two main areas: (1) agent-based modelling (ABM) for constructing synthetic markets composed of thousands of traders calibrated to real data and (2) the development of algorithmic trading strategies for agency trading activities using Deep Reinforcement Learning and ABM. 
 
-ABM is a bottom-up approach to building financial markets composed of various types of participants (hedge funds, banks, etc.). In these models, the agents are **reactive** to new unseen scenarios allowing them to perform counterfactual reasoning and generate different future paths. Deep Reinforcement Learning is a subfield of Machine Learning concerned with agents learning through trial-and-error.
-
 Background
 ======
 I obtained my undergraduate MEng degree in Mechatronic Engineering (Robotics) from the University of Manchester in 2014. During my studies, I built small and large robotic systems for industrial (electronics assembly) and research (landmine sweeping robots) purposes. My final year group project focused on research for improving landmine detection techniques. This was sponsored by [Find A Better Way](https://www.bbc.co.uk/news/uk-england-manchester-15534752), a charity founded by Sir Bobby Charlton. I won a scholarship from BP for my Masters study and was fortunate to graduate in the top three of the class.

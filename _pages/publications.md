@@ -4,8 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Workshop Papers
-======
 **On the Importance of Opponent Modeling in Auction Markets**<br />
 **Mahmoud Mahfouz**, Angelos Filos, Cyrine Chtourou, Joshua Lockhart, Samuel Assefa, <br />
 Manuela Veloso, Danilo Mandic, Tucker Balch.<br /> 

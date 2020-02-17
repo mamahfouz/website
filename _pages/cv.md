@@ -21,4 +21,4 @@ Work experience
 * J.P. Morgan Rates Technology: Quantitative Developer (2014-2017)
 * Goldman Sachs: Software Developer Summer Intern (2013)
 * [Culham Centre for Fusion Energy](https://ccfe.ukaea.uk/research/joint-european-torus/): Robotics Summer Intern (2013)
-* Agilent Technologies: Application Engineer Intern (2011-2012) __
+* Agilent Technologies: Application Engineer Intern (2011-2012)

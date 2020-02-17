@@ -8,7 +8,7 @@ redirect_from:
 
 I am a senior associate in the London office of J.P. Morgan [AI Research](https://www.jpmorgan.com/global/technology/artificial-intelligence), an academic research lab led by Prof. [Manuela Veloso](https://www.wsj.com/articles/jpmorgan-taps-carnegie-mellon-professor-for-new-artificial-intelligence-role-1525374000). I am also an early stage part-time Ph.D. student at Imperial College London supervised by Prof. [Danilo Mandic](http://www.commsp.ee.ic.ac.uk/~mandic/).
 
-My research focuses mainly on applying artificial intelligence and machine learning tools from robotics in financial markets. In my work, I work on two main areas: (1) agent-based modelling (ABM) for constructing synthetic markets composed of thousands of traders calibrated to real data and (2) the development of algorithmic trading strategies for agency trading activities using deep reinforcement learning and ABM. 
+My research focuses mainly on applying artificial intelligence and machine learning tools from robotics in financial markets. In my work, I work on two main areas: (1) agent-based modelling (ABM) for constructing synthetic markets composed of thousands of traders calibrated to real data and (2) the development of algorithmic trading strategies for agency trading activities using deep reinforcement learning and ABM.
 
 Background
 ======

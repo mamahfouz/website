@@ -1,11 +1,14 @@
 "Danilo":
-  - firstname: ["Danilo", "D", "DP", "Danilo Mandic"]
+  - firstname: ["Danilo"]
+  - lastname: ["Mandic"]
     url: https://en.wikipedia.org/wiki/Danilo_Mandic
 
 "Tucker":
- - firstname: ["Tucker", "T", "TH", "Tucker Balch"]
+ - firstname: ["Tucker"]
+ - lastname: ["Balch"]
    url: https://www.cc.gatech.edu/people/tucker-balch
 
 "Manuela":
- - firstname: ["Manuela", "M.", "Manuela Veloso"]
+ - firstname: ["Manuela"]
+ - lastname: ["Veloso"]
    url: https://en.wikipedia.org/wiki/Manuela_M._Veloso

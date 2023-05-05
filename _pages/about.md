@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: J.P. Morgan AI Research & Imperial College London
 

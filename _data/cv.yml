@@ -2,96 +2,60 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Mahmoud Mahfouz
     - name: Date of Birth
-      value: 14th March 1879
+      value: 2nd June 1991
+    - name: Location
+      value: London, United Kingdom
     - name: Languages
-      value: English, German
+      value: English, Arabic
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: AI Research Lead (Vice President)
+      institution: J.P. Morgan AI Research
+      year: 2021 - Present
+    - title: Guest Lecturer
+      institution: Imperial College London
+      year: 2019 - Present
+    - title: AI Research Scientist (Senior Associate)
+      institution: J.P. Morgan AI Research
+      year: 2019 - 2021
+    - title: Data Scientist (Associate)
+      institution: J.P. Morgan Intelligent Solutions
+      year: 2018 - 2019
+    - title: Software Engineer (Analyst then Associate)
+      institution: J.P. Morgan Corporate & Investment Bank (Markets)
+      year: 2014 - 2018
+    - title: Software Engineer (Summer Intern)
+      institution: Goldman Sachs
+      year: 2013
+    - title: Mechatronics Engineer (Summer Intern)
+      institution: Culham Centre for Fusion Energy, UK Atomic Energy Authority
+      year: 2013
+    - title: Application Engineer (Year Placement)
+      institution: Agilent Technologies (now Keysight Technologies)
+      year: 2011 - 2012
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Doctor of Philosophy (Ph.D.), Machine Learning
+      institution: Imperial College London, United Kingdom
+      year: 2024 (expected)
+    - title: Masters of Engineering (MEng), Mechatronics Engineering
+      institution: The University of Manchester
+      year: 2009 - 2014
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2014
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - President Doctoral Scholarship - The University of Manchester (award turned down)
+        - MEng Student Third Prize - The University of Manchester
+        - MEng Student Scholarship - BP
+    - year: 2013
       items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - TargetJobs Undergraduate of the Year Award Finalist - EDF Energy

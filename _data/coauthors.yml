@@ -1,3 +1,8 @@
+"Manuela":
+ - firstname: ["Manuela"]
+ - lastname: ["Veloso"]
+   url: https://scholar.google.com/citations?user=2FbkAzYAAAAJ&hl=en
+
 "Danilo":
   - firstname: ["Danilo"]
   - lastname: ["Mandic"]
@@ -8,7 +13,42 @@
  - lastname: ["Balch"]
    url: https://www.cc.gatech.edu/people/tucker-balch
 
-"Manuela":
- - firstname: ["Manuela"]
- - lastname: ["Veloso"]
-   url: https://en.wikipedia.org/wiki/Manuela_M._Veloso
+"Prashant":
+  - firstname: ["Prashant"]
+  - lastname: ["Reddy"]
+    url: https://scholar.google.com/citations?user=jwQvlI0AAAAJ&hl=en
+
+"Angelos":
+  - firstname: ["Angelos"]
+  - lastname: ["Filos"]
+    url: https://scholar.google.com/citations?user=SGjYdrEAAAAJ&hl=en
+
+"Sammy":
+  - firstname: ["Samuel"]
+  - lastname: ["Assefa"]
+    url: https://scholar.google.com/citations?user=NVQkD5AAAAAJ&hl=en
+
+"Sameena":
+  - firstname: ["Sameena"]
+  - lastname: ["Shah"]
+    url: https://scholar.google.com/citations?hl=en&user=xgU6vhYAAAAJ
+
+"Armineh":
+  - firstname: ["Armineh"]
+  - lastname: ["Nourbakhsh"]
+    url: https://scholar.google.com/citations?user=Itf3MeIAAAAJ&hl=en
+
+"Daniele":
+  - firstname: ["Daniele"]
+  - lastname: ["Nourbakhsh"]
+    url: https://scholar.google.com/citations?user=IWXDluMAAAAJ&hl=en
+
+"Xiaomo":
+  - firstname: ["Xiaomo"]
+  - lastname: ["Liu"]
+    url: https://scholar.google.com/citations?user=4WGDW8kAAAAJ&hl=en
+
+"Xiaodan":
+  - firstname: ["Xiaodan"]
+  - lastname: ["Zhu"]
+    url: https://scholar.google.com/citations?hl=en&user=a6MYnuUAAAAJ

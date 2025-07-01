@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Mahmoud
 middle_name:
 last_name: Mahfouz
-email: mm4313@ic.ac.uk
+email: me@mamahfouz.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
@@ -101,7 +101,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  The best way to reach me is via email to mm4313@ic.ac.uk
+  The best way to reach me is via email to me@mamahfouz.com
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -117,7 +117,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: A Peak into my ADHD Mind # blog_name will be displayed in your blog page
+blog_name: Random Thoughts & Ramblings # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: place to share random thoughts on AI, politics and other random unrelated stuff
 permalink: /blog/:year/:title/
